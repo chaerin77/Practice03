@@ -9,7 +9,7 @@ public class Ex10 {
 		Scanner sc =new Scanner(System.in);
 		System.out.println("숫자를 입력하세요");
 		
-		int max=0;
+		int max=0; //최댓값의 변수 설정
 		
 		for(int i=1; i<=5; i++) {
 			
